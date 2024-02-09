@@ -9,7 +9,7 @@ Config.Peds = {
     {267.45, -624.04, 44.0, 65.94, 0x9D0087A8,"ig_claypain", "Gangster", "amb@world_human_aa_smoke@male@idle_a"}
 }
 ```
-<BR>https://wiki.rage.mp/index.php?title=Peds to get Model Hash, Ped Model
+https://wiki.rage.mp/index.php?title=Peds to get Model Hash, Ped Model
 <BR>
 Change Icon in client.lua look for ```lua icon = "fas fa-fist-raised",```
 <BR>Example: ```icon = "fas fa-plus-square",```
