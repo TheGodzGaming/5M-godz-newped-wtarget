@@ -11,6 +11,7 @@ Config.Peds = {
 ```
 https://wiki.rage.mp/index.php?title=Peds to get Model Hash, Ped Model
 <BR>
+<BR>
 Change Icon in client.lua look for ```icon = "fas fa-fist-raised",```
 <BR>Example: ```icon = "fas fa-plus-square",```
 <BR>Using from https://www.w3schools.com/icons/default.asp
