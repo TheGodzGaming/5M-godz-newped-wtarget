@@ -12,9 +12,9 @@ Config.Peds = {
 https://wiki.rage.mp/index.php?title=Peds to get Model Hash, Ped Model
 <BR>
 <BR>
-<BR>
 Change Type in client.lua look for ```type = "client",``` 
 <BR>Example: ```type = "client/server",``` 
+<BR>
 <BR>
 Change Icon in client.lua look for ```icon = "fas fa-fist-raised",```
 <BR>Example: ```icon = "fas fa-plus-square",```
