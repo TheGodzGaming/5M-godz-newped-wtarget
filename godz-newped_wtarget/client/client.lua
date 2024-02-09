@@ -79,7 +79,7 @@ AddEventHandler('onClientResourceStart', function(resourceName)
   
   
   function AddTargetModel()
-    exports['godz-target']:AddTargetModel(`ig_claypain`, {
+    exports['qb-target']:AddTargetModel(`ig_claypain`, {
         options = {
           {     
                num = 1,
